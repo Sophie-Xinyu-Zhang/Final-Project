@@ -550,12 +550,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'With the breeze beoming wind, the temperature kept dropping. But you''ve
+  m_text: With the breeze beoming wind, the temperature kept dropping. But you've
     already go in so deep. It is impossible to go back to the oasis anymore, the
     only way is forward. Alone with the wind, sand particles began to hit you rface
     and body. Soon you realized before the cold temperature kill youu first, you
     are going to die in a sandstorm instead. Your insights is correct this time.
-    The sandstorm swallowed you in whole without leaving a trace. '
+    The sandstorm swallowed you in whole without leaving a trace.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

@@ -724,7 +724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: After long travelling through the desert, you arrived to the oasis you
+  m_text: After long travelling through the desert, you arrived.to the oasis you
     aimed for. It is already 4pm in the afternoon now. Goiing into the desert deeper
     seems plausible, but you can also choose to stay over for a good rest tonight
     and head off tomorrow morning. You'd rather...

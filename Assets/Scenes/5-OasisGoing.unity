@@ -664,7 +664,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: With determination you departed. The sky gets darker and it bacame hard
+  m_text: With determination you departed. The sky gets.darker and it bacame hard
     to recognize the direction you are heading to. Yet with strength in heart you
     persisted and went on. You feel a bit of breeze, and realized it's getting colder
     for the night. Maybe continuing was a bad idea...

@@ -30,6 +30,9 @@ EditorBuildSettings:
     path: Assets/Scenes/3-Direction.unity
     guid: 84a494e1b88784b648f2c433f844aedc
   - enabled: 1
+    path: Assets/Scenes/4-AtSandpit.unity
+    guid: b42d5a0a0939843a78d33a7c0b5cd258
+  - enabled: 1
     path: Assets/Scenes/4-AtOasis.unity
     guid: b4f2aafd742fe42afb5884d3aee7ca3d
   - enabled: 1
@@ -57,6 +60,12 @@ EditorBuildSettings:
     path: Assets/Scenes/8-AtRightPyramid.unity
     guid: 4e5335361b80a44489dd1ccf533fbe60
   - enabled: 1
+    path: Assets/Scenes/8-BackAtOne.unity
+    guid: e7cfa64cc8afb446d83c12195aff064f
+  - enabled: 1
+    path: Assets/Scenes/8-BackAtTwo.unity
+    guid: 3e5dc61ea5ecd4b18b6e59b33a59c599
+  - enabled: 1
     path: Assets/Scenes/9-GoInOne.unity
     guid: b401a19cc35624817baf567d3398db63
   - enabled: 1
@@ -81,6 +90,18 @@ EditorBuildSettings:
     path: Assets/Scenes/13-AtFinal.unity
     guid: 752b21055d26c44339a6053d38df7a3a
   - enabled: 1
+    path: Assets/Scenes/NoteAlive.unity
+    guid: f01e30ae9887c4e399ae8b83b18a8c40
+  - enabled: 1
+    path: Assets/Scenes/NoteDead.unity
+    guid: e85e67c7f91884126be35a1768ef5328
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: fb6648c22c532435e81ca7ae29a98d4c
+  - enabled: 1
     path: Assets/Scenes/14-GetFortune.unity
     guid: 0a7712ccfb023428eb76b3dd05276f00
   - enabled: 1
@@ -98,14 +119,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/16-FoundAlive.unity
     guid: ec47ff969cc3c4199bc5ca5021b4dd1b
-  - enabled: 1
-    path: Assets/Scenes/Death.unity
-    guid: fb6648c22c532435e81ca7ae29a98d4c
-  - enabled: 1
-    path: Assets/Scenes/NoteAlive.unity
-    guid: f01e30ae9887c4e399ae8b83b18a8c40
-  - enabled: 1
-    path: Assets/Scenes/NoteDead.unity
-    guid: e85e67c7f91884126be35a1768ef5328
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 18337708e9a534761a302645f0902abd, type: 2}
