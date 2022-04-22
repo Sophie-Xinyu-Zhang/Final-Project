@@ -33,7 +33,7 @@ EditorBuildSettings:
     path: Assets/Scenes/4-AtSandpit.unity
     guid: b42d5a0a0939843a78d33a7c0b5cd258
   - enabled: 1
-    path: Assets/Scenes/4-AtOasis.unity
+    path: Assets/Scenes/3-OasisDrinkAll_new.unity
     guid: b4f2aafd742fe42afb5884d3aee7ca3d
   - enabled: 1
     path: Assets/Scenes/5-OasisGoing.unity

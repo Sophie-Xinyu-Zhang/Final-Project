@@ -252,7 +252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_text
-      value: Head off
+      value: Split it
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
@@ -590,7 +590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_text
-      value: Stay
+      value: Drink it all
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
@@ -701,7 +701,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -771.5}
+  m_AnchoredPosition: {x: 0, y: -567}
   m_SizeDelta: {x: 1038.3, y: 298.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1665538606
@@ -724,10 +724,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: After long travelling through the desert, you arrived.to the oasis you
-    aimed for. It is already 4pm in the afternoon now. Goiing into the desert deeper
-    seems plausible, but you can also choose to stay over for a good rest tonight
-    and head off tomorrow morning. You'd rather...
+  m_text: "As you travel through the desert, the hot sun beats down upon you. You
+    feel your throat turning dry, and your mount limps due to its old wound. \n\nLuckily,
+    you come across a small watering hole. The problem is that there is not much
+    to drink. Do you choose to drink it all or split it with your camel?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
