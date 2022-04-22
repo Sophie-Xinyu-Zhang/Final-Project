@@ -274,7 +274,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -654.3}
+  m_AnchoredPosition: {x: 0, y: -850}
   m_SizeDelta: {x: 1099.3, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &64199993
@@ -297,10 +297,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You decided to continue your adventure with a camel. This beautiful animal
-    is slowly blinking its eyes, and lowered itself to let you ride on it. You hopped
-    onto the camel and pet it gently, with you rheart full of excitement of the journey
-    ahead.
+  m_text: You notice a faint glow appearing from a point of darkness. As you go closer,
+    you find that it is the special herb. As you quickly grab it, you find that you
+    must enter through one of 3 doors.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
@@ -334,7 +333,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -545,7 +544,7 @@ PrefabInstance:
       objectReference: {fileID: 39512939}
     - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 3-Direction
+      value: Car7-1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}

@@ -265,10 +265,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Looking ahead, the vast desert seems to be boundless. But far in the sight,
-    you saw a huge sandpit on the left and an oasis. You heard rumors before that
-    the hiddne treasure is surounded by a bunch of sandpits, but this information
-    is based off of nowhere. You decided to go to...
+  m_text: "Congratulations! You haven proven yourself to be an excellent person with
+    the highest moral character. While you didn\u2019t end up finding the treasure,
+    you did end up saving a human life! Thank you for all your hard work. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
@@ -302,7 +301,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -449,7 +448,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 4-AtSandpit
+      value: Introduction
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName

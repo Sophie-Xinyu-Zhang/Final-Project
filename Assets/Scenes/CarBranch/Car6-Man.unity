@@ -276,7 +276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 4-AtSandpit
+      value: Car6-2
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -368,7 +368,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_text
-      value: Sandpit
+      value: Leave Him
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_fontAsset
@@ -422,7 +422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 4-AtOasis
+      value: Car6-1
       objectReference: {fileID: 0}
     - target: {fileID: 6267717993458665589, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -514,7 +514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_text
-      value: Oasis
+      value: Take him with you
       objectReference: {fileID: 0}
     - target: {fileID: 8909932683299741601, guid: 551aa15972d914f79822606d7b1b28e8, type: 3}
       propertyPath: m_fontAsset
@@ -740,10 +740,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Looking ahead, the vast desert seems to be boundless. But far in the sight,
-    you saw a huge sandpit on the left and an oasis. You heard rumors before that
-    the hiddne treasure is surounded by a bunch of sandpits, but this information
-    is based off of nowhere. You decided to go to...
+  m_text: "Congrats! You solved the puzzle. Now we shall proceed to explore the mysteries
+    of this cavern. Before you proceed though, you must make the difficult decision
+    of leaving the man behind or taking him with you. He is adamant on coming with
+    you but you know it\u2019ll slow you down. "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
@@ -777,7 +777,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0

@@ -42,7 +42,7 @@ EditorBuildSettings:
     path: Assets/Scenes/5-OasisGoing.unity
     guid: 2ad692ff880f74017a997f45537f4397
   - enabled: 0
-    path: Assets/Scenes/5-OasisStay.unity
+    path: 
     guid: e5761dbf820184c1592c7b691b662eb2
   - enabled: 1
     path: Assets/Scenes/6-DieInSandstorm.unity
@@ -62,6 +62,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Puzzel1.unity
     guid: 44cc91ac574a148b3a617094f3e9d13c
+  - enabled: 1
+    path: Assets/Scenes/Puzzel2.unity
+    guid: c7f0fb998931742ed9b919f3d386b157
   - enabled: 1
     path: Assets/Scenes/8-AtRightPyramid.unity
     guid: 4e5335361b80a44489dd1ccf533fbe60
@@ -119,6 +122,129 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Death.unity
     guid: fb6648c22c532435e81ca7ae29a98d4c
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car1-1.unity
+    guid: b14044718559e437881ace6dfc3c31d7
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car1-2.unity
+    guid: 1a64448c3bf9146e48e1fb8d39e11eac
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car1-Fuel.unity
+    guid: 3a4e510d4e4784b1082f678e92057f3c
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car2-1.unity
+    guid: bf8d93f8e61af40cdaa28e1693901b37
+  - enabled: 1
+    path: Assets/Scenes/14-ReadNote.unity
+    guid: 33f0f76e6a1bd42379317c3c8e9009cb
+  - enabled: 1
+    path: Assets/Scenes/15-BeforeFoundAndDeath.unity
+    guid: bb6aa630d0ff24252a68b076dc9cf3a2
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car2-2.unity
+    guid: 973429d0dc85140b8b90f9a22cd3e475
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car2-3.unity
+    guid: 5395679235f324f15923d01f54d7a269
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car2-4.unity
+    guid: 8b96c593221024cfcbc2dddc88bc498c
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car2-Angry.unity
+    guid: d66af3e224bc244e9acb02d1dcc42cc6
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car3-1.unity
+    guid: abddbe10b11184e8abd7ac65998c3824
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car3-2.unity
+    guid: 963e5c2a648c14456bc3f366af35694f
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car3-Passerby.unity
+    guid: 7dcc3c620e6a04143b0ae1679d30cc6e
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car4-1.unity
+    guid: ec86f84dbf2ff45b091be161ffac9d74
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car4-2.unity
+    guid: b15458f9558d745b8b24e89877c558d1
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car4-Angry.unity
+    guid: f81800cfb7efa437d9e785eb268ce4e1
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car4-Passerby.unity
+    guid: 579c71c40711b49d59c1e07a3cdcf6ed
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car5-Village.unity
+    guid: e1a873f8868ed4965aa7a3b855811601
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car6-1.unity
+    guid: 1b4e69e65fed54b0493a22a600e31b36
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car6-2.unity
+    guid: ae6982323810746139be067fcef2c88e
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car6-Man.unity
+    guid: e4abac81c44864aa6b714a3b07e500c2
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car7-1.unity
+    guid: cfdaf20876a1e441d8fcbba1f1d3b4cb
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car7-2.unity
+    guid: 7c7857d48ee294feab4ad069fe230dc2
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car7-3.unity
+    guid: 5c8e0d3d4d9d54bc3b01d182381fecea
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car7-Cave.unity
+    guid: ecd1aaf86acef477681dfc384053d0ef
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car7-Cave2.unity
+    guid: 94aa8f1912e5247f09c3a54e5bc4eab7
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car8-1.unity
+    guid: 4f740938b9e5d4ad1a262dfedb9e27e7
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car8-2.unity
+    guid: 7c6b5d820382945d6915bf1b82e086ab
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car8-3.unity
+    guid: 12bc6f84bfe3b47908eb7a6998621842
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car8-Cave.unity
+    guid: ed4de38ffab8b494fabdf3336c2ed0f0
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car9-1.unity
+    guid: c6b4d85b0f1a54863b0145d4dcc199fb
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car9-2.unity
+    guid: da46693e110c9427c9beeda995e606bd
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car9-Mineral.unity
+    guid: 247d64611804448998826d77960d1976
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car10.unity
+    guid: 720d79a2f3d904c9bbfe3a3910a5dc1b
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car11-1.unity
+    guid: a5697516769864725a192336e9c60deb
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car11-2.unity
+    guid: 1bcb15dc26bc8433baa663763a0e67e0
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car11-3.unity
+    guid: fbd4da9b39e3e4030b2646a954e9dd12
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car11-Herb.unity
+    guid: af73dc463ff5e434da5038ad7bd6c93a
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/FinalBad.unity
+    guid: 8bc154c7d3a0a45fc8da74c035fc3dae
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/FinalGood.unity
+    guid: 6b6d20e00df4c4c178ec8833489c52c3
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/FinalNeutral.unity
+    guid: cb88d6db392a84ba3bd50a95ed3524db
   - enabled: 1
     path: Assets/Scenes/2-Camel_Coax_new.unity
     guid: ffd056e2ac00a459f9398da0f8e5f0cb
