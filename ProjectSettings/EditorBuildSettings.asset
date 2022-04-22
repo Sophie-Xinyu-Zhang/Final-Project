@@ -51,10 +51,10 @@ EditorBuildSettings:
     path: Assets/Scenes/6-FoundTwoSigns.unity
     guid: ed0e669d1c0824365ba908420b491b64
   - enabled: 1
-    path: Assets/Scenes/7-LeftPyramid.unity
+    path: Assets/Scenes/7-EastPyramid.unity
     guid: e8726601cf680494bb28d7e371677861
   - enabled: 1
-    path: Assets/Scenes/7-RightPyramid.unity
+    path: Assets/Scenes/7-WestPyramid.unity
     guid: 3c1bd9f157a8c4b018c282e5a36b75c0
   - enabled: 1
     path: Assets/Scenes/8-LeftPyramidDeath.unity
@@ -119,36 +119,63 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Death.unity
     guid: fb6648c22c532435e81ca7ae29a98d4c
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/2-Camel_Coax_new.unity
     guid: ffd056e2ac00a459f9398da0f8e5f0cb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/2-Camel_Intimidate_new.unity
     guid: 601ba05e723e343e1949d1185806081b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/2-Camel_New.unity
     guid: 6c79b8dd7fe974cb9b815fffc16879e5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/3-AtOasis_new.unity
     guid: 690a2095bef794425b90191df63ac787
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/3-OasisDrinkAll_new.unity
     guid: b4f2aafd742fe42afb5884d3aee7ca3d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/3-OasisSplitDrink_new.unity
     guid: 53fbac2b4b31a498e930e39ec62ada4f
-  - enabled: 0
-    path: Assets/Scenes/4-OldMan_new.unity
-    guid: e47c3d03ad2c14ef38a1e0b5997e4325
-  - enabled: 0
-    path: Assets/Scenes/4-OldMan-KeepBandages_new.unity
-    guid: 2b274aabb3fd64ff89d99d91b0318e9a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/4-OldMan-CamelBandage_new.unity
     guid: 289319c0cc35d4a4fa31ad1875031855
-  - enabled: 0
+  - enabled: 1
+    path: Assets/Scenes/4-OldMan-KeepBandages_new.unity
+    guid: 2b274aabb3fd64ff89d99d91b0318e9a
+  - enabled: 1
+    path: Assets/Scenes/4-OldMan_new.unity
+    guid: e47c3d03ad2c14ef38a1e0b5997e4325
+  - enabled: 1
     path: Assets/Scenes/4-SaveOldMan_new.unity
     guid: 6d4a47f35161d40168b3fe6294f6b842
+  - enabled: 1
+    path: Assets/8_LostExplorer_HelpMan_new.unity
+    guid: 691ae7afc44a44a7da1abd0c4ec5f317
+  - enabled: 1
+    path: Assets/8_LostExplorer_IgnoreMan_new.unity
+    guid: 9605a91449243435bafc8f87d05a49a2
+  - enabled: 1
+    path: Assets/8_LostExplorerNew.unity
+    guid: 477b64982e0854732a57908148a8c289
+  - enabled: 1
+    path: Assets/9_Puzzle_new.unity
+    guid: c85eb7ad14419434198cbcc7b0e7ae90
+  - enabled: 1
+    path: Assets/9_Puzzle_w_explorer_new.unity
+    guid: 5038b4562d4f34e588372e991f0a925e
+  - enabled: 1
+    path: Assets/9_Puzzle_wo_explorer_new 1.unity
+    guid: 26330a6b1a00649d2931731331888c68
+  - enabled: 1
+    path: Assets/10-HidePortrait-new.unity
+    guid: d241cf52c47ea4eb5becec659ef9e79b
+  - enabled: 1
+    path: Assets/10-MoralChoice_new.unity
+    guid: 52f6d84cd25b34d47bbdc6e26ab5f1e0
+  - enabled: 1
+    path: Assets/10-ShowPortrait-new.unity
+    guid: 86674915d402643e8a56008eff6d8260
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a6cc427a9d6ae4b78a9e81289e18f625, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 18337708e9a534761a302645f0902abd, type: 2}

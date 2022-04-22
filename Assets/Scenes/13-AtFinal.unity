@@ -724,11 +724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: With a few days of travelling, you finally reached the spot located by
-    the map. After a few rounds of seaching, you found an opening in the sand that
-    you almost missed. This must be it! exclaimed by you, you went down the tunnel.
-    When you reached the bottom, you found a half opened coffin that filled with
-    gold and jewleries. Filled with delirium, you rushed towards the coffin.
+  m_text: You enter the room. You see a coffin full of treasures. You choose to ...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
