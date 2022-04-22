@@ -176,6 +176,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/10-ShowPortrait-new.unity
     guid: 86674915d402643e8a56008eff6d8260
+  - enabled: 1
+    path: Assets/11-FINAL-KillExplorer-New.unity
+    guid: 11d438aa28b094ebcacca1025a50514a
+  - enabled: 1
+    path: Assets/11-FINAL-MORAL-New.unity
+    guid: aa9ce3d68bd3a4e4e8de30bf73e34274
+  - enabled: 1
+    path: Assets/11-FINAL-ShowMap-New.unity
+    guid: 69a14a80c3dfc4cd3a14d944103a9f21
+  - enabled: 1
+    path: Assets/CHOICE_NEW.unity
+    guid: 6294a0fd4db89455992ab1fd80922201
+  - enabled: 1
+    path: Assets/PLACE_HOLDER_PUZZZLE_PYRAMID_NEW.unity
+    guid: 861ee0ee1c7134d62ac0d5b54fb8cef1
+  - enabled: 1
+    path: Assets/TRANSITION_NEW_TEMPLATE.unity
+    guid: 1c28a8f1e7cab4d04a62cb0504180d9c
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a6cc427a9d6ae4b78a9e81289e18f625, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 18337708e9a534761a302645f0902abd, type: 2}
