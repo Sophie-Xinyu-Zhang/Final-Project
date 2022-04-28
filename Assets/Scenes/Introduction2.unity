@@ -223,7 +223,7 @@ PrefabInstance:
       value: It has been said that the treasure lies deep inside the vast plains
         of this desert but few have taken on the challenge and even fewer have come
         out of it alive to tell the tales of what truly happens inside. Tread carefully
-        and keep a look out for any leads.. may the odds be ever in your favor!
+        and keep a look out for any leads.. good luck!
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x
