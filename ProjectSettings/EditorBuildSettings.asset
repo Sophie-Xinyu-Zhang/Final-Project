@@ -24,29 +24,32 @@ EditorBuildSettings:
     path: Assets/Scenes/Introduction2.unity
     guid: fb16432ea880e4f26a03affa84392ead
   - enabled: 1
+    path: Assets/Scenes/Introduction 1.unity
+    guid: 22db4ed873e9342ef9b402780b392aa5
+  - enabled: 1
     path: Assets/Scenes/1-Transportation.unity
     guid: 124e7620555a5492dba3a911d0d99fdb
-  - enabled: 1
-    path: Assets/Scenes/2-JeepTransition.unity
-    guid: a0d18097785624767b35fbf06e71efcc
-  - enabled: 1
-    path: Assets/Scenes/2-CamelTransition.unity
-    guid: 4c80efba323974c4ca6d0fa524b84c37
-  - enabled: 1
-    path: Assets/Scenes/3-Direction.unity
-    guid: 84a494e1b88784b648f2c433f844aedc
-  - enabled: 1
-    path: Assets/Scenes/4-AtSandpit.unity
-    guid: b42d5a0a0939843a78d33a7c0b5cd258
-  - enabled: 1
-    path: Assets/Scenes/5-OasisGoing.unity
-    guid: 2ad692ff880f74017a997f45537f4397
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/6-DieInSandstorm.unity
-    guid: ebba410d3198543738fb3b8ad3abebce
+    path: Assets/Scenes/3-Direction.unity
+    guid: 84a494e1b88784b648f2c433f844aedc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/6-FoundTwoSigns.unity
     guid: ed0e669d1c0824365ba908420b491b64
@@ -56,30 +59,33 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/8-LeftPyramidDeath.unity
-    guid: dc46b30e76ec543c2bb91b14f24cb1cd
+    path: Assets/Scenes/7-WestPyramid.unity
+    guid: 571a488921f224e63962ee851a18262c
   - enabled: 1
     path: Assets/Scenes/Puzzel1.unity
     guid: 44cc91ac574a148b3a617094f3e9d13c
   - enabled: 1
     path: Assets/Scenes/Puzzel2.unity
     guid: c7f0fb998931742ed9b919f3d386b157
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/8-AtRightPyramid.unity
-    guid: 4e5335361b80a44489dd1ccf533fbe60
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/8-BackAtOne.unity
-    guid: e7cfa64cc8afb446d83c12195aff064f
-  - enabled: 1
-    path: Assets/Scenes/8-BackAtTwo.unity
-    guid: 3e5dc61ea5ecd4b18b6e59b33a59c599
-  - enabled: 1
-    path: Assets/Scenes/9-GoInOne.unity
-    guid: b401a19cc35624817baf567d3398db63
-  - enabled: 1
-    path: Assets/Scenes/9-GoInTwo.unity
-    guid: 54af8e5271dd8404691340b746f84ea3
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/9-SolvePuzzle.unity
     guid: 1cf0b8e3422e349e696159b529e60373
@@ -89,31 +95,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/11-PyOneOut.unity
     guid: 405b3f93d34ab44e382150515fccbf57
-  - enabled: 1
-    path: Assets/Scenes/11-PyTwoDeath.unity
-    guid: 9feb6dae2368a4eefb5f2b67ff19d0ae
-  - enabled: 1
-    path: Assets/Scenes/12-ToFinal.unity
-    guid: 279ca4b18fafe448db7d141ee2194a3f
-  - enabled: 1
-    path: Assets/Scenes/13-AtFinal.unity
-    guid: 752b21055d26c44339a6053d38df7a3a
-  - enabled: 1
-    path: Assets/Scenes/14-GetFortune.unity
-    guid: 0a7712ccfb023428eb76b3dd05276f00
-  - enabled: 1
-    path: Assets/Scenes/15-BeforeFoundAndAlive.unity
-    guid: 65fd2d395da5d4b32a45513e08abb6fd
-  - enabled: 1
-    path: Assets/Scenes/16-Found+Death.unity
-    guid: 0eee321e6888f44c6807e7993041a6fa
-  - enabled: 1
-    path: Assets/Scenes/16-FoundAlive.unity
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/14-Good.unity
     guid: ec47ff969cc3c4199bc5ca5021b4dd1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NoteAlive.unity
     guid: f01e30ae9887c4e399ae8b83b18a8c40
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NoteDead.unity
     guid: e85e67c7f91884126be35a1768ef5328
   - enabled: 0
@@ -135,11 +141,14 @@ EditorBuildSettings:
     path: Assets/Scenes/CarBranch/Car2-1.unity
     guid: bf8d93f8e61af40cdaa28e1693901b37
   - enabled: 1
-    path: Assets/Scenes/14-ReadNote.unity
-    guid: 33f0f76e6a1bd42379317c3c8e9009cb
-  - enabled: 1
-    path: Assets/Scenes/15-BeforeFoundAndDeath.unity
-    guid: bb6aa630d0ff24252a68b076dc9cf3a2
+    path: Assets/Scenes/13-FINAL-Rob-Explorer.unity
+    guid: e32d49038eb5f4043b667c2dfd431824
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/CarBranch/Car2-2.unity
     guid: 973429d0dc85140b8b90f9a22cd3e475
@@ -281,6 +290,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/8_LostExplorer_IgnoreMan_new.unity
     guid: 9605a91449243435bafc8f87d05a49a2
+  - enabled: 1
+    path: Assets/Scenes/3-OasisDrinkAll_new.unity
+    guid: 884222f8c263542f5ad8d969edc11744
   - enabled: 1
     path: Assets/Scenes/8_LostExplorerNew.unity
     guid: 477b64982e0854732a57908148a8c289

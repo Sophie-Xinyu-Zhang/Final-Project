@@ -427,7 +427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2522092248621187302, guid: 4f89f8ea6f8e34687b77caeecb504e71, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -450.5
+      value: -80
       objectReference: {fileID: 0}
     - target: {fileID: 2522092248621187302, guid: 4f89f8ea6f8e34687b77caeecb504e71, type: 3}
       propertyPath: m_SizeDelta.y
@@ -588,12 +588,32 @@ PrefabInstance:
       value: ContinueOverlay
       objectReference: {fileID: 0}
     - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1003131526}
     - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GoTo
+      value: ShowFinalResult
+      objectReference: {fileID: 0}
+    - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: Menu, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -667,8 +687,8 @@ MonoBehaviour:
   m_text: 'You decided to share the map with the explorer, and now you are no longer
     travelling by yourself. '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
+  m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
