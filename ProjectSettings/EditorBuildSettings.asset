@@ -84,7 +84,7 @@ EditorBuildSettings:
     path: Assets/Scenes/9-SolvePuzzle.unity
     guid: 1cf0b8e3422e349e696159b529e60373
   - enabled: 1
-    path: Assets/Scenes/10-PyOne.unity
+    path: Assets/Scenes/11-PyOne.unity
     guid: 38daccb0180de452490567114b47df7b
   - enabled: 1
     path: Assets/Scenes/11-PyOneOut.unity
@@ -276,49 +276,49 @@ EditorBuildSettings:
     path: Assets/Scenes/4-SaveOldMan_new.unity
     guid: 6d4a47f35161d40168b3fe6294f6b842
   - enabled: 1
-    path: Assets/8_LostExplorer_HelpMan_new.unity
+    path: Assets/Scenes/8_LostExplorer_HelpMan_new.unity
     guid: 691ae7afc44a44a7da1abd0c4ec5f317
   - enabled: 1
-    path: Assets/8_LostExplorer_IgnoreMan_new.unity
+    path: Assets/Scenes/8_LostExplorer_IgnoreMan_new.unity
     guid: 9605a91449243435bafc8f87d05a49a2
   - enabled: 1
-    path: Assets/8_LostExplorerNew.unity
+    path: Assets/Scenes/8_LostExplorerNew.unity
     guid: 477b64982e0854732a57908148a8c289
   - enabled: 1
-    path: Assets/9_Puzzle_new.unity
+    path: Assets/Scenes/9_Puzzle_new.unity
     guid: c85eb7ad14419434198cbcc7b0e7ae90
   - enabled: 1
-    path: Assets/9_Puzzle_w_explorer_new.unity
+    path: Assets/Scenes/9_Puzzle_w_explorer_new.unity
     guid: 5038b4562d4f34e588372e991f0a925e
   - enabled: 1
-    path: Assets/9_Puzzle_wo_explorer_new 1.unity
+    path: Assets/Scenes/9_Puzzle_wo_explorer_new 1.unity
     guid: 26330a6b1a00649d2931731331888c68
   - enabled: 1
-    path: Assets/10-HidePortrait-new.unity
+    path: Assets/Scenes/10-HidePortrait-new.unity
     guid: d241cf52c47ea4eb5becec659ef9e79b
   - enabled: 1
-    path: Assets/10-MoralChoice_new.unity
+    path: Assets/Scenes/10-MoralChoice_new.unity
     guid: 52f6d84cd25b34d47bbdc6e26ab5f1e0
   - enabled: 1
-    path: Assets/10-ShowPortrait-new.unity
+    path: Assets/Scenes/10-ShowPortrait-new.unity
     guid: 86674915d402643e8a56008eff6d8260
   - enabled: 1
-    path: Assets/11-FINAL-KillExplorer-New.unity
+    path: Assets/Scenes/13-FINAL-KillExplorer-New.unity
     guid: 11d438aa28b094ebcacca1025a50514a
   - enabled: 1
-    path: Assets/11-FINAL-MORAL-New.unity
+    path: Assets/Scenes/13-FINAL-MORAL-New.unity
     guid: aa9ce3d68bd3a4e4e8de30bf73e34274
   - enabled: 1
-    path: Assets/11-FINAL-ShowMap-New.unity
+    path: Assets/Scenes/13-FINAL-ShowMap-New.unity
     guid: 69a14a80c3dfc4cd3a14d944103a9f21
   - enabled: 1
     path: Assets/CHOICE_NEW.unity
     guid: 6294a0fd4db89455992ab1fd80922201
   - enabled: 1
-    path: Assets/PLACE_HOLDER_PUZZZLE_PYRAMID_NEW.unity
+    path: Assets/Scenes/12-PyOne_Puzzle.unity
     guid: 861ee0ee1c7134d62ac0d5b54fb8cef1
   - enabled: 1
-    path: Assets/TRANSITION_NEW_TEMPLATE.unity
+    path: Assets/Scenes/End.unity
     guid: 1c28a8f1e7cab4d04a62cb0504180d9c
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a6cc427a9d6ae4b78a9e81289e18f625, type: 2}
