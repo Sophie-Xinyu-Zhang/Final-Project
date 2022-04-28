@@ -554,8 +554,8 @@ MonoBehaviour:
     to the fortune, the way to the pyramid seems less tedious, and your blood is
     boiling in every single vessel.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
+  m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -579,8 +579,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 65
+  m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -734,7 +734,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7536609992708681431, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: 8-AtRightPyramid
+      value: 8_LostExplorerNew
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 689f2ef8c269e4e52adff8b00c5a335e, type: 3}

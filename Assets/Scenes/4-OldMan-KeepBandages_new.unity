@@ -641,8 +641,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 0, y: 569}
-  m_SizeDelta: {x: -80, y: 298.5}
+  m_AnchoredPosition: {x: 0, y: 501}
+  m_SizeDelta: {x: -80, y: 28}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1665538606
 MonoBehaviour:
@@ -664,10 +664,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Keep Bandages
+  m_text: This might be helpful for myself, you thought, and took the med kit with
+    you without caring what is going to happen to the old man.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
+  m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -691,8 +692,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 65
+  m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
