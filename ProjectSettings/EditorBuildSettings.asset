@@ -108,7 +108,7 @@ EditorBuildSettings:
     path: Assets/Scenes/16-Found+Death.unity
     guid: 0eee321e6888f44c6807e7993041a6fa
   - enabled: 1
-    path: Assets/Scenes/16-FoundAlive.unity
+    path: Assets/Scenes/14-Good.unity
     guid: ec47ff969cc3c4199bc5ca5021b4dd1b
   - enabled: 1
     path: Assets/Scenes/NoteAlive.unity
