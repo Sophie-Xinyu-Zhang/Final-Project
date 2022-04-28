@@ -800,8 +800,8 @@ MonoBehaviour:
     floor. You recognize this is a family portrait of the explorer. This must be
     the valuable he was talking about! Would you bring the portrait out for him?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
+  m_sharedMaterial: {fileID: 8786535347960937340, guid: 5549f38816c7c4252b1b4343b1a451dd, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

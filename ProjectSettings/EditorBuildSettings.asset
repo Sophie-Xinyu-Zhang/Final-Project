@@ -113,13 +113,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/14-Good.unity
     guid: ec47ff969cc3c4199bc5ca5021b4dd1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NoteAlive.unity
     guid: f01e30ae9887c4e399ae8b83b18a8c40
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NoteDead.unity
     guid: e85e67c7f91884126be35a1768ef5328
   - enabled: 0
