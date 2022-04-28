@@ -43,7 +43,7 @@ EditorBuildSettings:
     guid: 2ad692ff880f74017a997f45537f4397
   - enabled: 0
     path: 
-    guid: e5761dbf820184c1592c7b691b662eb2
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/6-DieInSandstorm.unity
     guid: ebba410d3198543738fb3b8ad3abebce
@@ -54,8 +54,8 @@ EditorBuildSettings:
     path: Assets/Scenes/7-EastPyramid.unity
     guid: e8726601cf680494bb28d7e371677861
   - enabled: 1
-    path: Assets/Scenes/7-WestPyramid.unity
-    guid: 3c1bd9f157a8c4b018c282e5a36b75c0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/8-LeftPyramidDeath.unity
     guid: dc46b30e76ec543c2bb91b14f24cb1cd
@@ -257,9 +257,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3-AtOasis_new.unity
     guid: 690a2095bef794425b90191df63ac787
-  - enabled: 1
-    path: Assets/Scenes/3-OasisDrinkAll_new.unity
-    guid: b4f2aafd742fe42afb5884d3aee7ca3d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/3-OasisSplitDrink_new.unity
     guid: 53fbac2b4b31a498e930e39ec62ada4f
