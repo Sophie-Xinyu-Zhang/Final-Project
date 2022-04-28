@@ -265,14 +265,14 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Introduction 1
+      value: 1-Transportation
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: 'Welcome to the Forbidden Desert where only the bravest of people dare
-        to explore. While the journey is long and dreary, those who step inside are
-        eager to find a long lost treasure.. one that is known to grant its holder
-        a deep, dark power. '
+      value: It has been said that the treasure lies deep inside the vast plains
+        of this desert but few have taken on the challenge and even fewer have come
+        out of it alive to tell the tales of what truly happens inside. Tread carefully
+        and keep a look out for any leads.. good luck!
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x
