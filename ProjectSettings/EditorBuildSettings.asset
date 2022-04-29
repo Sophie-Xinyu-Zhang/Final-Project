@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/3-Direction.unity
     guid: 84a494e1b88784b648f2c433f844aedc
   - enabled: 0
@@ -80,10 +80,19 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/Puzzel4.unity
+    guid: 8fe45e240b1da47c5a0c7ffd845f89df
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3.unity
+    guid: 8924fafdc8b8f4da385b52203f59bfe0
+  - enabled: 1
+    path: Assets/Scenes/Puzzle5.unity
+    guid: 67afc0ab4f1914b8e9343c056766ea77
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
