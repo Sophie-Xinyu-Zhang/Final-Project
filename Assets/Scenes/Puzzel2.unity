@@ -891,7 +891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e36c5ad18bd4494ba24e2d34eb5b18e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene_name: 10-PyOne
+  scene_name: 10-MoralChoice_new
   myNumber: {fileID: 1829144541}
 --- !u!4 &894916631
 Transform:
