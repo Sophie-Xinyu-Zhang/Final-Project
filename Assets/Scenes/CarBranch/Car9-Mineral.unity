@@ -236,10 +236,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
       propertyPath: m_text
-      value: "Now, to get out of the cave, you must choose between two routes in
-        the cave that are differentiated by the minerals and formations found inside.
-        Neither of the routes appears to be potentially harmful so don\u2019t stress! "
+      value: 'Now, to get out of the cave, you must choose between two routes in
+        the cave that are differentiated by the minerals and formations found inside. '
       objectReference: {fileID: 0}
+    - target: {fileID: 9131035256876974668, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 38becf7eb539be24cb6881557c519eed, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
 --- !u!1 &442470273

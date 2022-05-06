@@ -281,15 +281,43 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b15f90001a0654742805309e158edde3, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Car3-Passerby
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -3654
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 73
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
       value: "I\u2019m so worried about what will happen now that I\u2019m almost
         out of gas.. that car sure did look appealing but I know it wasn\u2019t right.
         I hope I can make it out of here somehow."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.8658775
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.8658775
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.8867924
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4292730338
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x

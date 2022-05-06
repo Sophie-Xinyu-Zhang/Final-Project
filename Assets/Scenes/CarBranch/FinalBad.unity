@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7036998461600367607, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 5e58314a08da814498682c41590fb753, type: 3}
     - target: {fileID: 7237355251818942856, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_Name
       value: Canvas1Button
@@ -218,12 +222,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -3290.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -45.299927
+      objectReference: {fileID: 0}
     - target: {fileID: 7237355253174758915, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_text
-      value: 'You have proven yourself to be a person that lacks the level of character
-        needed to survive the Forbidden Desert. You consistently displayed characteristics
-        of immorality, selfishness, and anger instead of helping people across your
-        journey. Better luck next time! '
+      value: 'You have proven yourself to be one that looks out for themselves first
+        and foremost, with little regards to others.
+
+        Congratulations!'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
