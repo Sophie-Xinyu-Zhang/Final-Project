@@ -130,15 +130,19 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 81756f7802d75ef45ab8c3590ac4ba9f, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Car8-Cave
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: Inside the right door, you find a dark tunnel with a golden light appearing
-        from it. Could that be the treasure? But in order to enter the tunnel, you
-        must leave behind the special herb that the old man is waiting for.
+      value: Inside the right door, you find a dark tunnel with a strange light appearing
+        from it. Could that be the treasure?As you step closer, you realize that
+        the herb you holds slowly wilts the more it touches the light.
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x

@@ -214,17 +214,20 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: cd01fc53b94a788478946bf00ec19868, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Car9-Mineral
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: "Greed is never the answer! You forgot all about the man that you needed
-        to help, ignored the boy whose mother was dying, and opted to help yourself
-        by going after something you\u2019re not even sure exists. While you have
-        received some evil points, you were saved from going down the tunnel trap
-        and still have the medicine."
+      value: Tantalized by the idea of finding the treasure, you step towards the
+        chest. Suddenly, large spikes shoot out of the walls - you narrowly avoid
+        getting skewered. You jump back in fear, and luckily both you and the herb
+        are safe.
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x

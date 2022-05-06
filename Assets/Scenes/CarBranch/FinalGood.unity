@@ -214,6 +214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7036998461600367607, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 95590bde64eae6b4987856c42e7f5617, type: 3}
     - target: {fileID: 7237355251818942856, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_Name
       value: Canvas1Button
@@ -302,12 +306,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -3090.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -145.30005
+      objectReference: {fileID: 0}
     - target: {fileID: 7237355253174758915, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_text
-      value: "Congratulations! You haven proven yourself to be an excellent person
-        with the highest moral character. While you didn\u2019t end up finding the
-        treasure, you did end up saving a human life! Thank you for all your hard
-        work. "
+      value: 'Throughout your decisions, you put others before you to a fault.
+
+        Congratulations!'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}

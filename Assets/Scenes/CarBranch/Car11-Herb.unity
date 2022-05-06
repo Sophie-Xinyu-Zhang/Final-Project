@@ -390,12 +390,23 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 6430707111983290577, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 60a998b93ff58cc4ab091fbecd90ef76, type: 3}
+    - target: {fileID: 7304086723732588028, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -3171.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7304086723732588028, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 14.199951
+      objectReference: {fileID: 0}
     - target: {fileID: 7304086723732588029, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
       propertyPath: m_text
-      value: "Woo hoo you finally made it out of the cave! Now that you\u2019re out,
-        you\u2019ve discovered how rare the herb you have actually is. It\u2019s
-        up to you to follow through with your promise with the old man.. what will
-        you do?"
+      value: "Now that you\u2019re out, you\u2019ve realize how rare the herb you
+        have actually is. It\u2019s up to you to follow through with your promise
+        with the old man.. what will you do?"
       objectReference: {fileID: 0}
     - target: {fileID: 7304086723964402550, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
       propertyPath: m_Pivot.x

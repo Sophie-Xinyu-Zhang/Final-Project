@@ -425,8 +425,12 @@ PrefabInstance:
     - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
       propertyPath: m_text
       value: 'The old man persists and upon speaking to him, he asks you to help
-        him find a special herb to heal his dying wife. '
+        him find a special herb to heal his dying partner. '
       objectReference: {fileID: 0}
+    - target: {fileID: 9131035256876974668, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: fb42dc22869e67c419f39a6b7ea5570f, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
 --- !u!114 &1636163469 stripped

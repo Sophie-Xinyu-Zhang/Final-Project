@@ -214,14 +214,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 60a998b93ff58cc4ab091fbecd90ef76, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Car11-Herb
       objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -3754
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 123
+      objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: Congrats! You solved the puzzle. Now we can leave the cave with the
-        medicine in hand!
+      value: After solving the puzzle, you successfully exit the cavern, herb in
+        hand,
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x
