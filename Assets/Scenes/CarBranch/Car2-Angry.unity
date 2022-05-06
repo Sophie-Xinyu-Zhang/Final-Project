@@ -281,6 +281,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2232418432683531435, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_text
+      value: Apologize
+      objectReference: {fileID: 0}
+    - target: {fileID: 2232418434122554239, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_text
+      value: Keep stealing
+      objectReference: {fileID: 0}
     - target: {fileID: 3721728540712901134, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -429,6 +437,26 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5550594215341996239, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5550594215341996239, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5550594215341996239, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5550594215341996239, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_PixelsPerUnitMultiplier
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430707111983290577, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f8fdeffaf404ae740a26c3b7afb3c5d4, type: 3}
     - target: {fileID: 7304086723964402550, guid: cb7220622f72a4facab66487dcfe0da6, type: 3}
       propertyPath: m_Pivot.x
       value: 0

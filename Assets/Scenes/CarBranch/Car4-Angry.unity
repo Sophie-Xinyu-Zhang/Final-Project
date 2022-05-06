@@ -424,9 +424,30 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
       propertyPath: m_text
-      value: The angry man walks up to you and yells uncontrollably. In an effort
-        to reconcile, he asks you to help him find a herb to heal his dying wife.
+      value: The angry man walks up to you and yells uncontrollably. As an apology
+        for your wrongdoings he asks you to help him find a herb to heal his dying
+        partner.
       objectReference: {fileID: 0}
+    - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7705583233443765741, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 9131035256876974668, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8dbbf068831e4d148ac57ac06dd584ff, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05d67f51c028c40329eb2ef87021b946, type: 3}
 --- !u!114 &2015451729 stripped
