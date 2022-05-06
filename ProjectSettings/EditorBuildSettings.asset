@@ -101,7 +101,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/9-SolvePuzzle.unity
     guid: 1cf0b8e3422e349e696159b529e60373
   - enabled: 1
@@ -341,10 +341,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CHOICE_NEW.unity
     guid: 6294a0fd4db89455992ab1fd80922201
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/12-PyOne_Puzzle.unity
     guid: 861ee0ee1c7134d62ac0d5b54fb8cef1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/End.unity
     guid: 1c28a8f1e7cab4d04a62cb0504180d9c
   - enabled: 1
