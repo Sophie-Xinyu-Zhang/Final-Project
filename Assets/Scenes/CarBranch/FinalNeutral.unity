@@ -214,6 +214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7036998461600367607, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 87f31bc480eb0444abe954721d9a1059, type: 3}
     - target: {fileID: 7237355251818942856, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_Name
       value: Canvas1Button
@@ -302,12 +306,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -1474.6001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7237355253174758914, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -105.1
+      objectReference: {fileID: 0}
     - target: {fileID: 7237355253174758915, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}
       propertyPath: m_text
-      value: "Upon calculation of your overall morality, it was found that you remained
-        neutral in times of need. While you did end up saving a human\u2019s life,
-        moments of hesitancy and selfishness prevented you from achieving the highest
-        level of character possible."
+      value: 'Throughout your decisions, you tend to stand in the middle instead
+        of leaning in any particular view.
+
+        Congratulations!'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd0392f955e364ede81d23b913c2f30b, type: 3}

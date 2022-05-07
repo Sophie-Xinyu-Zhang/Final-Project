@@ -281,14 +281,38 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: cb9ad6f6ee07bc2428b2f564badc8b8f, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Car7-Cave
       objectReference: {fileID: 0}
+    - target: {fileID: 4643214498344874027, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -1838
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -12
+      objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: "There\u2019s no rush anyway! Well done for taking the old man\u2019s
-        feelings into consideration. "
+      value: Although you do want to hurry, you don't feel too rushed and bring him
+        along.
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x

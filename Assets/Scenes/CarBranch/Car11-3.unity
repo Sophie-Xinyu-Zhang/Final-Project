@@ -197,6 +197,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 163302128206522946, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 76a9920b2e5376841af168fa67ddd3ed, type: 3}
     - target: {fileID: 857704479677186964, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 1
@@ -209,11 +213,31 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: FinalBad
       objectReference: {fileID: 0}
+    - target: {fileID: 4643214498344874027, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 201
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -1634
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165305578771906065, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -40.2
+      objectReference: {fileID: 0}
     - target: {fileID: 7165305578771906066, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_text
-      value: "Even until the very end of your journey, you decided to take the selfish
-        route and left the old man hanging. But let\u2019s see how well you did throughout
-        the rest of the journey."
+      value: You decide to leave the old man - ready for a chase, you begin to run
+        away. However, when you look back at the sound of a cry, you realize the
+        old man knew he couldn't catch you.
       objectReference: {fileID: 0}
     - target: {fileID: 7165305578889663109, guid: c25af6827d1db498cbf573afd5f8cee1, type: 3}
       propertyPath: m_Pivot.x

@@ -20,9 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Introduction.unity
     guid: 20a7f0346c31e4b44bd0564331dac783
+  - enabled: 1
+    path: Assets/Scenes/4-OldMan_new.unity
+    guid: 34d122ced25ba3247a40676d285955ef
   - enabled: 0
     path: 
-    guid: fb16432ea880e4f26a03affa84392ead
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Introduction 1.unity
     guid: 22db4ed873e9342ef9b402780b392aa5
@@ -37,7 +40,7 @@ EditorBuildSettings:
     guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: 84a494e1b88784b648f2c433f844aedc
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
@@ -98,7 +101,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/9-SolvePuzzle.unity
     guid: 1cf0b8e3422e349e696159b529e60373
   - enabled: 1
@@ -127,13 +130,13 @@ EditorBuildSettings:
     guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: ec47ff969cc3c4199bc5ca5021b4dd1b
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: f01e30ae9887c4e399ae8b83b18a8c40
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: e85e67c7f91884126be35a1768ef5328
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
@@ -147,7 +150,7 @@ EditorBuildSettings:
     path: Assets/Scenes/CarBranch/Car1-2.unity
     guid: 1a64448c3bf9146e48e1fb8d39e11eac
   - enabled: 1
-    path: Assets/Scenes/CarBranch/Car1-Fuel.unity
+    path: Assets/Scenes/CarBranch/Car1-Fuel2.unity
     guid: 3a4e510d4e4784b1082f678e92057f3c
   - enabled: 1
     path: Assets/Scenes/CarBranch/Car2-1.unity
@@ -291,7 +294,7 @@ EditorBuildSettings:
     path: Assets/Scenes/4-OldMan-KeepBandages_new.unity
     guid: 2b274aabb3fd64ff89d99d91b0318e9a
   - enabled: 1
-    path: Assets/Scenes/4-OldMan_new.unity
+    path: Assets/Scenes/4-OldMan_new2.unity
     guid: e47c3d03ad2c14ef38a1e0b5997e4325
   - enabled: 1
     path: Assets/Scenes/4-SaveOldMan_new.unity
@@ -328,7 +331,7 @@ EditorBuildSettings:
     guid: 86674915d402643e8a56008eff6d8260
   - enabled: 0
     path: 
-    guid: 11d438aa28b094ebcacca1025a50514a
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/13-FINAL-MORAL-New.unity
     guid: aa9ce3d68bd3a4e4e8de30bf73e34274
@@ -338,12 +341,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CHOICE_NEW.unity
     guid: 6294a0fd4db89455992ab1fd80922201
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/12-PyOne_Puzzle.unity
     guid: 861ee0ee1c7134d62ac0d5b54fb8cef1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/End.unity
     guid: 1c28a8f1e7cab4d04a62cb0504180d9c
+  - enabled: 1
+    path: Assets/Scenes/CarBranch/Car1-Fuel.unity
+    guid: ade4f53ad9e9a2f478f124de1d6c82d1
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a6cc427a9d6ae4b78a9e81289e18f625, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 18337708e9a534761a302645f0902abd, type: 2}
